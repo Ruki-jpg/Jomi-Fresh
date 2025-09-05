@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Jomi Fresh</title>
+  <style>
+    body { font-family: Arial; background: #f8f8f8; text-align: center; padding: 50px; }
+    h1 { color: #4CAF50; }
+    ul { list-style: none; padding: 0; }
+    li { background: white; margin: 10px auto; padding: 15px; width: 200px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <h1>Jomi Fresh</h1>
+  <p>Salads, Smoothies, Milkshakes & Fresh Juices</p>
+
+  <h2>Our Menu</h2>
+  <ul>
+    <li>Fresh Salad</li>
+    <li>Smoothies</li>
+    <li>Milkshakes</li>
+    <li>Fresh Juices</li>
+  </ul>
+</body>
+</html>
